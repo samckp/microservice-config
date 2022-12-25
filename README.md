@@ -1,2 +1,2 @@
 # microservice-config
-Configuratios for springboot-microservice project
+Configurations for springboot-microservice project
